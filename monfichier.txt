@@ -1,1 +1,2 @@
-hello vi monfichier.txt 
+hello vi
+hello2
